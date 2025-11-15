@@ -2,4 +2,4 @@ all:
   children:
     microk8s:
       hosts:
-        cronus.sargus.co.za:
+        yourhost:
